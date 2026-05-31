@@ -5,7 +5,7 @@
 ╚══════════════════════════════════════════════════════════╝
 Kurulum:
     pip install streamlit matplotlib seaborn pandas
-
+    
 Çalıştırma:
     streamlit run app.py
 """
